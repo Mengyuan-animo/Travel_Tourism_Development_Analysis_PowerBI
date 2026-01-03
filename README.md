@@ -1,6 +1,6 @@
 # Travel & Tourism Development Index (TTDI) Analytics Dashboard
 
-![Data Source]([https://www.weforum.org/publications/travel-tourism-development-index-2024/downloads-d72ace2079/])
+![Data Source](https://www.weforum.org/publications/travel-tourism-development-index-2024/downloads-d72ace2079/)
 
 ## 📌 Project Overview
 This project presents a comprehensive, multi-layered Power BI dashboard analyzing the **Travel & Tourism Development Index (TTDI)**. Utilizing data from the World Economic Forum, the report evaluates the competitiveness and resilience of over 100 economies.
@@ -42,10 +42,10 @@ The core objective is to analyze industry recovery in the post-pandemic era by b
 ### 1. Data Engineering & Transformation
 * **Complex Cleaning**: Transformed a nested, multi-header raw Excel structure into a clean, **Long Format** dataset using Power Query.
 * **Unpivot Logic**: Pivot/Unpivot operations applied to handle temporal data (2019, 2021, 2024) across 100+ indicators.
-* **Star Schema**: Implemented a robust data model with a central `Fact_TTDI` table connected to normalized dimensions (`Dim_Economy`, `Dim_Metrics`, `Dim_Date`).
+* **Star Schema**: Implemented a robust data model with a central `Fact_TTDI` table connected to normalized dimensions (`Dim_Economy`, `Dim_Metrics`).
 
 ### 2. Advanced DAX Calculations
-* **Measure Branching**: Built a scalable library of measures to calculate YTD scores, historical benchmarks, and variances.
+* **Measure Branching**: Built a scalable library of measures to calculate Year-specific scores, historical benchmarks, and variances.
 * **Context Transition**: Utilized `CALCULATE`, `REMOVEFILTERS`, and `ALLSELECTED` to build dynamic global averages that remain stable regardless of country-specific slicers.
 * **Dynamic Ranking**: Implemented `RANKX` with `DENSE` logic to provide accurate competitive positioning across different years and metric levels.
 
@@ -59,9 +59,8 @@ The core objective is to analyze industry recovery in the post-pandemic era by b
 ## 💡 How to Use
 1. Clone this repository or download the `.pbix` file.
 2. Open with **Power BI Desktop**.
-3. Use the **Year Slicer** on the Overview page to toggle between pre-pandemic and current snapshots.
-4. Right-click on a country in the map to **Drill-through** to the Drivers page for a deep-dive diagnosis.
+3. Use the **Year Slicer** and **Economy Group Slicer** on the Overview page to toggle between pre-pandemic and current snapshots.
 
 ---
 **Developed by**: Mengyuan Li  
-**Professional Links**: [LinkedIn Profile] | [Portfolio Website]
+**Professional Links**: [linkedin.com/in/mengyuanli0802]
