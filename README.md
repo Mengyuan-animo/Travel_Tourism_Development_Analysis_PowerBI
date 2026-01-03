@@ -66,4 +66,4 @@ The core objective is to analyze industry recovery in the post-pandemic era by b
 
 ---
 **Developed by**: Mengyuan Li  
-**Professional Links**: [linkedin.com/in/mengyuanli0802]
+**Professional Links**: [LinkedIn Profile](https://www.linkedin.com/in/mengyuanli0802)
