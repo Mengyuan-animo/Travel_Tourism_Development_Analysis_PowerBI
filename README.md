@@ -1,6 +1,9 @@
 # Travel & Tourism Development Index (TTDI) Analytics Dashboard
 
-![Data Source](https://www.weforum.org/publications/travel-tourism-development-index-2024/downloads-d72ace2079/)
+![Power BI](https://img.shields.io/badge/Data_Visualization-Power_BI-yellow)
+![DAX](https://img.shields.io/badge/Analytics-DAX-blue)
+![Data Modeling](https://img.shields.io/badge/Logic-Star_Schema-green)
+![Data Source](https://img.shields.io/badge/Source-World_Economic_Forum-orange)](https://www.weforum.org/publications/travel-tourism-development-index-2024/)
 
 ## 📌 Project Overview
 This project presents a comprehensive, multi-layered Power BI dashboard analyzing the **Travel & Tourism Development Index (TTDI)**. Utilizing data from the World Economic Forum, the report evaluates the competitiveness and resilience of over 100 economies.
@@ -17,7 +20,7 @@ The core objective is to analyze industry recovery in the post-pandemic era by b
     * **Geospatial Analysis**: Interactive map visualizing Index scores and growth status (Green for growth, Red for decline).
     * **KPI Tracking**: Real-time cards displaying global/regional average scores and top-performing economies.
     * **Comparative Analysis**: Clustered bar charts visualizing regional rankings and absolute score changes since 2019.
-* ![Overview Page](TTDI_Global_Overview.png)
+![Overview Page](TTDI_Global_Overview.png)
 
 ### Page 2: Dimension & Pillar Drivers (Root Cause Diagnosis)
 * **Objective**: Drill down into the specific "Why" behind a country's ranking.
@@ -25,7 +28,7 @@ The core objective is to analyze industry recovery in the post-pandemic era by b
     * **Hierarchy Navigation**: Seamless exploration from 5 Dimensions down to 17 specialized Pillars.
     * **Dynamic Benchmarking**: A "Gap Analysis" visual comparing individual country performance against a **Global Average Baseline** using advanced DAX filter context.
     * **Heatmap Matrix**: Conditional formatting used to instantly identify strengths and weaknesses across the TTDI hierarchy.
-* ![Dimension&Pillar Page](TTDI_Dimension_and_Pillar_Drivers.png)
+![Dimension&Pillar Page](TTDI_Dimension_and_Pillar_Drivers.png)
 
 ### Page 3: Trend & Potential Analysis (Strategic Growth)
 * **Objective**: Identify "Rising Stars" and future investment opportunities.
@@ -33,7 +36,7 @@ The core objective is to analyze industry recovery in the post-pandemic era by b
     * **Strategic Growth Matrix**: A four-quadrant scatter chart plotting **2019 Base Score** vs. **2019-2024 Growth Rate** to isolate high-potential economies.
     * **Relative Competitiveness**: A "Rank Jumper" table showing economies with the highest upward mobility in global rankings.
     * **V-Shape Recovery Tracking**: Longitudinal line charts comparing recovery trajectories across different Income Groups.
-* ![Trend&Potential Page](Trend_and_Potential_Analysis.png)
+![Trend&Potential Page](Trend_and_Potential_Analysis.png)
 
 ---
 
