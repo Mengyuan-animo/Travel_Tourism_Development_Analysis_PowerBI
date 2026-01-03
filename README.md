@@ -3,7 +3,7 @@
 ![Power BI](https://img.shields.io/badge/Data_Visualization-Power_BI-yellow)
 ![DAX](https://img.shields.io/badge/Analytics-DAX-blue)
 ![Data Modeling](https://img.shields.io/badge/Logic-Star_Schema-green)
-![Data Source](https://img.shields.io/badge/Source-World_Economic_Forum-orange)](https://www.weforum.org/publications/travel-tourism-development-index-2024/)
+[![Data Source](https://img.shields.io/badge/Source-World_Economic_Forum-orange)](https://www.weforum.org/publications/travel-tourism-development-index-2024/)
 
 ## 📌 Project Overview
 This project presents a comprehensive, multi-layered Power BI dashboard analyzing the **Travel & Tourism Development Index (TTDI)**. Utilizing data from the World Economic Forum, the report evaluates the competitiveness and resilience of over 100 economies.
