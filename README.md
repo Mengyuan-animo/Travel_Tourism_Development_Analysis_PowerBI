@@ -10,6 +10,8 @@ This project presents a comprehensive, multi-layered Power BI dashboard analyzin
 
 The core objective is to analyze industry recovery in the post-pandemic era by benchmarking **2024 performance against 2019 (Pre-pandemic peak)** and **2021 (Crisis period)**, identifying structural drivers of growth and high-potential destinations.
 
+This dashboard supports post-pandemic market expansion decisions by classifying economies into expansion priorities, test-and-learn markets and short-term avoidance candidates, based on recovery momentum and structural competitiveness between 2019 and 2024.
+
 ---
 
 ## 📊 Dashboard Structure & Business Logic
@@ -59,10 +61,10 @@ The core objective is to analyze industry recovery in the post-pandemic era by b
 * `WEF_TTDI_2024_edition_data.xlsx`: Processed datasets used for the analysis.
 * `Screenshots.png`: High-resolution images of the three dashboard pages.
 
-## 💡 How to Use
-1. Clone this repository or download the `.pbix` file.
-2. Open with **Power BI Desktop**.
-3. Use the **Year Slicer** and **Economy Group Slicer** on the Overview page to toggle between pre-pandemic and current snapshots.
+## 💡 Insights
+*
+*
+*
 
 ---
 **Developed by**: Mengyuan Li  
