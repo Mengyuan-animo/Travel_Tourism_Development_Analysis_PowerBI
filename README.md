@@ -22,7 +22,7 @@ This dashboard supports post-pandemic market expansion decisions by classifying 
     * **Geospatial Analysis**: Interactive map visualizing Index scores and growth status (Green for growth, Red for decline).
     * **KPI Tracking**: Real-time cards displaying global/regional average scores and top-performing economies.
     * **Comparative Analysis**: Clustered bar charts visualizing regional rankings and absolute score changes since 2019.
-![Overview Page](TTDI_Global_Overview.png)
+![Overview Page](global_overview.png)
 
 ### Page 2: Dimension & Pillar Drivers (Root Cause Diagnosis)
 * **Objective**: Drill down into the specific "Why" behind a country's ranking.
@@ -30,7 +30,7 @@ This dashboard supports post-pandemic market expansion decisions by classifying 
     * **Hierarchy Navigation**: Seamless exploration from 5 Dimensions down to 17 specialized Pillars.
     * **Dynamic Benchmarking**: A "Gap Analysis" visual comparing individual country performance against a **Global Average Baseline** using advanced DAX filter context.
     * **Heatmap Matrix**: Conditional formatting used to instantly identify strengths and weaknesses across the TTDI hierarchy.
-![Dimension&Pillar Page](TTDI_Dimension_and_Pillar_Drivers.png)
+![Dimension&Pillar Page](dimension_and_pillar_drivers.png)
 
 ### Page 3: Trend & Potential Analysis (Strategic Growth)
 * **Objective**: Identify "Rising Stars" and future investment opportunities.
@@ -38,7 +38,7 @@ This dashboard supports post-pandemic market expansion decisions by classifying 
     * **Strategic Growth Matrix**: A four-quadrant scatter chart plotting **2019 Base Score** vs. **2019-2024 Growth Rate** to isolate high-potential economies.
     * **Relative Competitiveness**: A "Rank Jumper" table showing economies with the highest upward mobility in global rankings.
     * **V-Shape Recovery Tracking**: Longitudinal line charts comparing recovery trajectories across different Income Groups.
-![Trend&Potential Page](Trend_and_Potential_Analysis.png)
+![Trend&Potential Page](trend_and_potential.png)
 
 ---
 
@@ -62,9 +62,12 @@ This dashboard supports post-pandemic market expansion decisions by classifying 
 * `Screenshots.png`: High-resolution images of the three dashboard pages.
 
 ## 💡 Insights
-*
-*
-*
+* **Persistent leadership of high-income economies** High-income economies, particularly in Europe and Asia-Pacific, consistently outperform others on the TTDI, driven by strong enabling environments, advanced ICT readiness, and mature transport and tourism infrastructure.
+
+* **Growth is pillar-driven, not uniform** Improvements in overall index performance are often explained by gains in specific pillars (e.g. ICT Readiness or Business Environment), rather than broad-based improvements across all dimensions, highlighting the importance of targeted policy interventions.
+
+* **Convergence among developing economies** Several middle-income economies show meaningful index and rank improvements between 2019 and 2024, indicating a gradual narrowing of competitiveness gaps as enabling conditions improve, which provide insights for market expansion decisions.
+
 
 ---
 **Developed by**: Mengyuan Li  
