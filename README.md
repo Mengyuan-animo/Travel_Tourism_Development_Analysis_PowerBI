@@ -14,7 +14,7 @@ This dashboard supports post-pandemic market expansion decisions by classifying 
 
 ---
 
-## 📊 Dashboard Structure & Business Logic
+## 🌟 Dashboard Structure & Business Logic
 
 ### Page 1: Global Overview (Macro Analysis)
 * **Objective**: Monitor the current state of global tourism competitiveness.
@@ -55,11 +55,8 @@ This dashboard supports post-pandemic market expansion decisions by classifying 
 * **Dynamic Ranking**: Implemented `RANKX` with `DENSE` logic to provide accurate competitive positioning across different years and metric levels.
 
 ---
-
-## 📂 Repository Contents
-* `TTDI_2024_Dashboard.pbix`: The core Power BI report file.
-* `WEF_TTDI_2024_edition_data.xlsx`: Processed datasets used for the analysis.
-* `Screenshots.png`: High-resolution images of the three dashboard pages.
+## 📊 Interactive Power BI Report
+[Click here to interacte with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmU2ZTVkYjgtNjA5My00MGYwLTk4YWQtODk1YzUzMTAxYTRmIiwidCI6ImRjYzc1OGY4LTk4ZDktNGIxOC05NTNhLTJhNGRiOWE2NzdhOCJ9&pageName=cb815cb2e51bd4b618fa)
 
 ## 💡 Insights
 * **Persistent leadership of high-income economies** High-income economies, particularly in Europe and Asia-Pacific, consistently outperform others on the TTDI, driven by strong enabling environments, advanced ICT readiness, and mature transport and tourism infrastructure.
@@ -68,6 +65,11 @@ This dashboard supports post-pandemic market expansion decisions by classifying 
 
 * **Convergence among developing economies** Several middle-income economies show meaningful index and rank improvements between 2019 and 2024, indicating a gradual narrowing of competitiveness gaps as enabling conditions improve, which provide insights for market expansion decisions.
 
+---
+## 📂 Repository Contents
+* `TTDI_2024_Dashboard.pbix`: The core Power BI report file.
+* `WEF_TTDI_2024_edition_data.xlsx`: Processed datasets used for the analysis.
+* `Screenshots.png`: High-resolution images of the three dashboard pages.
 
 ---
 **Developed by**: Mengyuan Li  
