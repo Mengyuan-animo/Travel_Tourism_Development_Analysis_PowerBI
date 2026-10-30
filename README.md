@@ -55,8 +55,8 @@ This dashboard supports post-pandemic market expansion decisions by classifying 
 * **Dynamic Ranking**: Implemented `RANKX` with `DENSE` logic to provide accurate competitive positioning across different years and metric levels.
 
 ---
-## 📊 Interactive Power BI Report
-[Click here to interacte with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmU2ZTVkYjgtNjA5My00MGYwLTk4YWQtODk1YzUzMTAxYTRmIiwidCI6ImRjYzc1OGY4LTk4ZDktNGIxOC05NTNhLTJhNGRiOWE2NzdhOCJ9&pageName=cb815cb2e51bd4b618fa)
+## 📊 View & Interact with the Report
+[🔗 Click here to interact with the Power BI dashboard](https://app.powerbi.com/view?r=eyJrIjoiMmU2ZTVkYjgtNjA5My00MGYwLTk4YWQtODk1YzUzMTAxYTRmIiwidCI6ImRjYzc1OGY4LTk4ZDktNGIxOC05NTNhLTJhNGRiOWE2NzdhOCJ9&pageName=cb815cb2e51bd4b618fa)
 
 ## 💡 Insights
 * **Persistent leadership of high-income economies** High-income economies, particularly in Europe and Asia-Pacific, consistently outperform others on the TTDI, driven by strong enabling environments, advanced ICT readiness, and mature transport and tourism infrastructure.
